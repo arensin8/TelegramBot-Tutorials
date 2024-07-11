@@ -6,7 +6,8 @@
   "scripts": {
     "start": "nodemon node index.js",
     "hears": "nodemon node hears.js",
-    "event": "nodemon node on-method.js"
+    "event": "nodemon node on-method.js",
+    "middleware": "nodemon node middleware.js"
   },
   "keywords": [],
   "author": "",
